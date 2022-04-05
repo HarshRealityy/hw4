@@ -1,0 +1,40 @@
+.father {
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1{
+    width: 220px;
+    height: 260px;
+    box-sizing: border-box;
+    border: 1px solid lightgrey;
+    border-right: 3px solid lightgrey;
+    border-bottom: 3px solid lightgrey;
+    text-align: center;
+
+
+}
+.fa-solid {
+    padding-left: 10px;
+    padding-top: 40px;
+    font-size:30px;
+    align-items: center;
+    color: #978d8d;
+}
+h3{
+    color: #e59f76;
+}
+p{
+    color: #726b6b;
+}
+.button{
+    width: 100px;
+    height: 30px;
+    background: #0ae5e5;
+    margin-left: 65px;
+    margin-top: 20px;
+
+}
+h1{
+    text-align: center;
+    color: #655f5f;
+}
